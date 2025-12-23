@@ -37,12 +37,6 @@ void draw() {
     Node randNode = nodes[floor(random(numNodes))];
     randNode.update();
   }
-  
-  //if (frameCount % 60 == 0) {
-  //  float totalEnergy = 0;
-  //  for (Node node : nodes) totalEnergy += node.energy;
-  //  print(int(totalEnergy) + " ");
-  //}
 }
 
 void keyPressed() {
