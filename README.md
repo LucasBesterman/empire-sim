@@ -7,6 +7,7 @@ Partially inspired by the work of [Peter Turchin](https://peterturchin.com/).
 
 ### Controls
 Toggle between display modes using the number keys. 1=plain cells, 2=cells w/ cities, 3=plain nodes, 4=nodes w/ network edges and glow
+
 Press Space to pause/unpause and 'r' to reset the simulation.
 
 ### Example behavior
